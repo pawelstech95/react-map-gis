@@ -1,0 +1,391 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#4678c8",
+            "marker-size": "small",
+            "marker-symbol": "shop",
+            "name": "forum",
+            "square": " 62 000 m²",
+            "address": "Targ Sienny 7, 80-806 Gdańsk",
+            "bicycleParking": true,
+            "carParking": true,
+            "destiny": "shopping",
+            "type": "shop",
+            "openingHours": "9:00-21:00",
+            "description": "Położona w rejonie starówki jasna, przestronna nowoczesna galeria handlowa"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [18.644163608551025, 54.349603322315645]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#4678c8",
+            "marker-size": "small",
+            "marker-symbol": "shop",
+            "name": "Madison",
+            "square": " 33 000 m²",
+            "address": "Rajska 10, 80-850 Gdańsk",
+            "bicycleParking": true,
+            "carParking": true,
+            "destiny": "shopping",
+            "type": "shop",
+            "openingHours": "9:00-21:00",
+            "description": "Nowoczesna galeria handlowa ze sklepami polskich i europejskich marek"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [18.649010360240936, 54.356451539035106]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#4678c8",
+            "marker-size": "small",
+            "marker-symbol": "shop",
+            "name": "baltycka",
+            "square": "123 000 m²",
+            "address": "Aleja Grunwaldzka 141, 80-264 Gdańsk",
+            "bicycleParking": true,
+            "carParking": true,
+            "destiny": "shopping",
+            "type": "shop",
+            "openingHours": "9:00-21:00",
+            "description": " rozległe centrum handlowe z markowymi sklepami odzieżowymi, restauracjami i strefą zabaw dla dzieci"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [18.600507974624634, 54.38264430182342]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#467dc8",
+            "marker-size": "small",
+            "marker-symbol": "shop",
+            "name": "Metropolia",
+            "square": "33 700 m²",
+            "address": "Jana Kilińskiego 4, 80-452 Gdańsk",
+            "bicycleParking": true,
+            "carParking": true,
+            "destiny": "shopping",
+            "type": "shop",
+            "openingHours": "10:00-21:00",
+            "description": "Miejskie centrum handlowe z markowymi sklepami, strefą gastronomiczną, kinem i miejscem zabaw dla dzieci"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [18.605668544769287, 54.38289422682794]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#4678c8",
+            "marker-size": "small",
+            "marker-symbol": "shop",
+            "name": "Galeria Przymorze",
+            "square": "35 000 m²",
+            "address": "Obrońców Wybrzeża 1, 80-398 Gdańsk",
+            "bicycleParking": true,
+            "carParking": true,
+            "destiny": "shopping",
+            "type": "shop",
+            "openingHours": "9:00-21:00",
+            "description": " centrum handlowe w sercu Przymorza"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [18.592042922973633, 54.41008946649027]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#4678c8",
+            "marker-size": "small",
+            "marker-symbol": "shop",
+            "name": "Galeria Morena",
+            "square": "30 000 m2",
+            "address": "Schuberta 102A, 80-172 Gdańsk",
+            "bicycleParking": true,
+            "carParking": true,
+            "destiny": "shopping",
+            "type": "shop",
+            "openingHours": "9:00-21:00",
+            "description": "Duży kompleks handlowy z hipermarketem, siłownią, kinem, placem zabaw dla dzieci i torem gokartowym"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [18.592686653137207, 54.35300490747276]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#46b419",
+            "marker-size": "small",
+            "marker-symbol": "park",
+            "name": "Park Oruński im. Emilii Hoene",
+            "square": "19 ha",
+            "address": "Raduńska 44A, Gdańsk",
+            "bicycleParking": true,
+            "carParking": false,
+            "destiny": "recreation",
+            "type": "park",
+            "openingHours": "czynne całą dobę",
+            "description": "zabytkowy, trzeci co do wielkości park miejski w Gdańsku, największy z historycznych parków. Położony jest nad Potokiem Oruńskim"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [18.626761436462402, 54.322280386149046]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#46b419",
+            "marker-size": "small",
+            "marker-symbol": "park",
+            "name": "Park Prezydenta Ronalda Reagana",
+            "square": "85 ha",
+            "address": "Piastowska, 80-366 Gdańsk",
+            "bicycleParking": true,
+            "carParking": true,
+            "destiny": "recreation",
+            "type": "park",
+            "openingHours": "czynne całą dobę",
+            "description": "park nadmorski w Gdańsku, położony w północnej części miasta"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [18.611011505126953, 54.413236304412486]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "marker-color": "#46b419",
+            "marker-size": "small",
+            "marker-symbol": "park",
+            "name": "Park Oliwski im. Adama Mickiewicza",
+            "square": "11,3 ha",
+            "address": "Opata Jacka Rybińskiego, 80-001 Gdańsk",
+            "bicycleParking": false,
+            "carParking": true,
+            "destiny": "recreation",
+            "type": "park",
+            "openingHours": "5:00-23:00",
+            "description": "zabytkowy park w gdańskiej dzielnicy Oliwa, nad Potokiem Oliwskim"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [18.56243133544922, 54.41113843929933]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "stroke": "#171616",
+            "stroke-width": 2,
+            "stroke-opacity": 1,
+            "fill": "#38f0ed",
+            "fill-opacity": 0.5,
+            "name": "obc",
+            "square": "150 000 m²",
+            "address": "al. Grunwaldzka 472 c, 80-309 Gdańsk",
+            "bicycleParking": true,
+            "carParking": true,
+            "destiny": "work",
+            "type": "office",
+            "openingHours": "czynne całą dobę",
+            "description": "centrum biznesowe, największy kompleks biurowy północnej Polski"
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [18.57110023498535, 54.40450698124708],
+                    [18.568804264068604, 54.40399490316457],
+                    [18.57013463973999, 54.40215886333639],
+                    [18.57243061065674, 54.402683454531235],
+                    [18.57110023498535, 54.40450698124708]
+                ]
+            ]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "stroke": "#0f0f0f",
+            "stroke-width": 2,
+            "stroke-opacity": 1,
+            "fill": "#e82626",
+            "fill-opacity": 0.5,
+            "name": "ALCHEMIA",
+            "square": "38 000 m²",
+            "address": "Grunwaldzka 415, 80-309 Gdańsk",
+            "bicycleParking": true,
+            "carParking": true,
+            "destiny": "work",
+            "type": "office",
+            "openingHours": "czynne całą dobę",
+            "description": " kompleks biurowo-usługowy w Gdańsku Oliwie"
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [18.574576377868652, 54.40083486524755],
+                    [18.577129840850827, 54.39798687547414],
+                    [18.578288555145264, 54.39836162226764],
+                    [18.575649261474606, 54.40117211410032],
+                    [18.574576377868652, 54.40083486524755]
+                ]
+            ]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "stroke": "#555555",
+            "stroke-width": 2,
+            "stroke-opacity": 1,
+            "fill": "#36ba50",
+            "fill-opacity": 0.5,
+            "name": "Tryton Business House",
+            "square": "23 600 m²",
+            "address": "Jana z Kolna 11, Gdańsk 80-864",
+            "bicycleParking": "true",
+            "carParking": "true",
+            "destiny": "work",
+            "type": "office",
+            "openingHours": "9:00-17:00",
+            "description": "nowoczesny budynek biurowy"
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [18.646148443222046, 54.360313611194236],
+                    [18.64668488502502, 54.35953841255996],
+                    [18.647586107254025, 54.35979472985618],
+                    [18.647221326828003, 54.36057617515711],
+                    [18.646148443222046, 54.360313611194236]
+                ]
+            ]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "stroke": "#008efa",
+            "stroke-width": 6,
+            "stroke-opacity": 0.5,
+            "name": "Martwa Wisła"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [18.779754638671875, 54.36775852406841],
+                [18.787307739257812, 54.34935319464678],
+                [18.799667358398438, 54.34455044818014],
+                [18.81683349609375, 54.34415019397455],
+                [18.82919311523437, 54.33814591317753],
+                [18.840866088867184, 54.32693557583187],
+                [18.868331909179688, 54.31371946884494],
+                [18.87588500976562, 54.30931315634242],
+                [18.899230957031246, 54.314520565885935],
+                [18.911590576171875, 54.31171665801094],
+                [18.917083740234375, 54.30089979507445],
+                [18.923263549804688, 54.291282419307954]
+            ]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "name": "Lotnisko Pruszcz Gdański"
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [18.698387145996094, 54.24978175074229],
+                    [18.682594299316406, 54.25178757462486],
+                    [18.657188415527344, 54.25399386823262],
+                    [18.64791870117187, 54.24978175074229],
+                    [18.648605346679688, 54.24055370445234],
+                    [18.66542816162109, 54.237744758897136],
+                    [18.698387145996094, 54.24376369380831],
+                    [18.698387145996094, 54.24978175074229]
+                ]
+            ]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "name": "Port Lotniczy Gdańsk im. Lecha Wałęsy"
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [18.455657958984375, 54.38435625761399],
+                    [18.44329833984375, 54.3831566464449],
+                    [18.445358276367188, 54.38095726823859],
+                    [18.500633239746094, 54.36715848033626],
+                    [18.50269317626953, 54.37155859745229],
+                    [18.48621368408203, 54.37635818753189],
+                    [18.48621368408203, 54.37815788916952],
+                    [18.47522735595703, 54.38195700021427],
+                    [18.471107482910156, 54.38095726823859],
+                    [18.455657958984375, 54.38435625761399]
+                ]
+            ]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "stroke": "#23a925",
+            "stroke-width": 4,
+            "stroke-opacity": 1,
+            "name": "Droga ekspresowa nr s7"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [18.947982788085934, 54.25599948727567],
+                [18.877944946289062, 54.27404566967879],
+                [18.823013305664062, 54.29408771927571],
+                [18.721389770507812, 54.32213020996839],
+                [18.6492919921875, 54.30811135287019],
+                [18.610153198242188, 54.290080089394316],
+                [18.585433959960934, 54.290080089394316]
+            ]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "stroke": "#e60f0f",
+            "stroke-width": 4,
+            "stroke-opacity": 1,
+            "name": "Droga ekspresowa nr s6"
+        },
+        "geometry": {
+            "type": "LineString",
+            "coordinates": [
+                [18.4515380859375, 54.54339315407258],
+                [18.45703125, 54.50992109250706],
+                [18.468017578125, 54.49556752187406],
+                [18.47900390625, 54.470037612805754],
+                [18.49273681640625, 54.44928282456209],
+                [18.4844970703125, 54.39774953406763],
+                [18.508529663085938, 54.381357163950724],
+                [18.518829345703125, 54.36815854835258],
+                [18.519515991210938, 54.36295792873051],
+                [18.519515991210938, 54.34815256064472],
+                [18.550415039062496, 54.31692376343628],
+                [18.55316162109375, 54.30891255908416],
+                [18.586807250976562, 54.29368697383707],
+                [18.594703674316406, 54.270838036831144],
+                [18.608264923095703, 54.26462253773161],
+                [18.60877990722656, 54.240754336103734],
+                [18.60860824584961, 54.23516136339513]
+            ]
+        }
+    }]
+}

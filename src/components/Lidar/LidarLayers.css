@@ -1,0 +1,26 @@
+.lidar .leaflet-control{
+    position: absolute;
+    bottom: 120px;
+}
+#cesiumContainer {
+    height: 100vh;
+    width: 100vw;
+}
+#cesiumContainer .custom-control-button{
+    position: absolute;
+    display: flex;
+    top: 10px;
+    left: 20px;
+    z-index: 100;
+    gap: 5px;
+}
+.logout, .back{
+    background-color: #303336;
+    border: #303336;
+}
+.logout:hover, .back:hover{
+    background-color: #48b;
+    border: #48b;
+}
+
+

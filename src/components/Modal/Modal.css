@@ -1,0 +1,50 @@
+/* @todo here it is some duplicated styles copied from redirectControl.css */
+
+.pdf-button{
+    top: 230px;
+    left: 4px;
+    z-index: 500;
+}
+
+.overlay-styles{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, .7);
+    z-index: 1000;
+}
+
+.portal{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%, -50%);
+    background-color: rgba(234, 234, 234, 0.95);
+    padding: 50px;
+    z-Index: 1000;
+    width: 70vw;
+    height: 70vh;
+    border: 5px solid rgba(32, 43, 42, 0.55);
+    box-shadow: 10px 5px 5px rgb(32, 43, 42);
+    overflow-y: auto;
+}
+
+.portal .close-button:hover {
+    cursor: pointer;
+    color: #3c607f;
+    background-color: transparent;
+}
+
+
+.portal .close-button {
+    all: unset;
+    position: absolute;
+    cursor: pointer;
+    font-size: 24px;
+    right: 10px;
+    top: 10px;
+    transition: all .5s;
+}
+
