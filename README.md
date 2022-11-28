@@ -1,3 +1,8 @@
+# Warning! I've only used the project for initial research, there are code snippets here that need rewriting.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
